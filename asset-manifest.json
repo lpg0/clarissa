@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05e0cbcf.chunk.css",
+    "main.js": "/static/js/main.09d1800b.chunk.js",
+    "main.js.map": "/static/js/main.09d1800b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ee82db6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ee82db6.js.map",
+    "static/js/2.3ebf5de4.chunk.js": "/static/js/2.3ebf5de4.chunk.js",
+    "static/js/2.3ebf5de4.chunk.js.map": "/static/js/2.3ebf5de4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a1263e6e387ca9170c655912bfc6c25.js": "/precache-manifest.2a1263e6e387ca9170c655912bfc6c25.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.05e0cbcf.chunk.css.map": "/static/css/main.05e0cbcf.chunk.css.map",
+    "static/js/2.3ebf5de4.chunk.js.LICENSE.txt": "/static/js/2.3ebf5de4.chunk.js.LICENSE.txt",
+    "static/media/button.css": "/static/media/button_designs_dark.18c6b234.svg",
+    "static/media/card-back.css": "/static/media/envelope_back.a4bb98a1.svg",
+    "static/media/card-closed.css": "/static/media/envelope_closed.ccbd5793.svg",
+    "static/media/card-open.css": "/static/media/envelope_open.59515ff6.svg",
+    "static/media/green-border.css": "/static/media/green_border.86c114be.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ee82db6.js",
+    "static/js/2.3ebf5de4.chunk.js",
+    "static/css/main.05e0cbcf.chunk.css",
+    "static/js/main.09d1800b.chunk.js"
+  ]
+}
